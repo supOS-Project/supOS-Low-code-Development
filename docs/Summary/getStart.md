@@ -28,7 +28,7 @@ ESS云服务，英文全称为Elastic supOS Service，即弹性supOS服务。通
 
 通过线下签订supOS采购合同，安装部署supOS操作系统平台。
 
-*安装部署说明详见《supOS工业操作系统软件安装手册V2.4.pdf》*
+*关于安装部署说明请参考[《supOS工业操作系统软件安装手册V2.4.pdf》](http://oss.supos.com/docs/ProductManual/supOS/V2.8.1/supOS工业操作系统软件安装手册V2.4.pdf)*
 
 ---
 
@@ -48,7 +48,7 @@ ESS云服务，英文全称为Elastic supOS Service，即弹性supOS服务。通
 
 ![对象建模操作流程图](../assets/img/ObjectMana.png "对象建模操作流程图")
 
-*关于对象模型管理请参考[supOS工厂建模管理软件用户手册V2.4.pdf》](http://oss.supos.com/docs/ProductManual/supOS/V2.8.1/supOS工厂建模管理软件用户手册V2.4.pdf)《*
+*关于对象模型管理请参考[《supOS工厂建模管理软件用户手册V2.4.pdf》](http://oss.supos.com/docs/ProductManual/supOS/V2.8.1/supOS工厂建模管理软件用户手册V2.4.pdf)*
 
 对象脚本服务说明详见：[内置服务详情](https://supos-project.github.io/supOS-Object-Documents/#/docs/ObjectService/)
 
@@ -64,6 +64,6 @@ ESS云服务，英文全称为Elastic supOS Service，即弹性supOS服务。通
 - 重复2-3步骤，在画布上添加多个控件，排列在画布上；
 - 保存页面，进行预览查看显示结果。
 
-*关于页面组态开发请参考《supOS工业APP组态开发软件用户手册V2.4.pdf》*
+*关于页面组态开发请参考[《supOS工业APP组态开发软件用户手册V2.4.pdf》](http://oss.supos.com/docs/ProductManual/supOS/V2.8.1/supOS工业APP组态开发软件用户手册V2.4.pdf)*
 
 supOS控件使用说明详见：[supOS控件说明](https://supos-project.github.io/supOS-Object-Documents/#/docs/CommonIntro/)

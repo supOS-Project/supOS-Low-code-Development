@@ -8,6 +8,9 @@
 
 自由布局页面组态提供工业APP页面组态开发所需的图表、表单、控件、图元等控件，支持通过属性的在线配置实现控件的可视化定义，支持交互事件、数据内容的联合绑定，满足生产管理业务表单的创建和管理要求。
 
+- 参考：[**supOS控件说明**](https://supos-project.github.io/supOS-Object-Documents/#/docs/CommonIntro/)
+- 参考：[**自由布局组态**](https://supos-project.github.io/supOS-Object-Documents/#/docs/FreeDesigner/)
+
 ---
 
 * [新建页面](/docs/BasicOperation/PageDesign/createNewPage)
