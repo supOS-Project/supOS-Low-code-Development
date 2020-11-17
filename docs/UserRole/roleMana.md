@@ -39,7 +39,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 已绑定用户的角色，需要先解除绑定用户再删除角色。</br>
 </font>
 

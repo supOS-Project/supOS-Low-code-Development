@@ -22,7 +22,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 通过supOS的用户管理及角色管理下新增的工业APP名称的页签配置第三方用户使用工业APP的权限；</br>
 配置前需要确保supOS与第三方软件用户及角色需完全一致，配置后才可生效。
 </font>

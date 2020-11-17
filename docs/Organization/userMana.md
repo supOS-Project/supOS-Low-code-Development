@@ -16,7 +16,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 一个人员可关联多个岗位；</br>
 一个人员只能一个主岗；</br>
 一个人员只能属于一个部门；</br>

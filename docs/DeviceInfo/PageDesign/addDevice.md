@@ -49,7 +49,7 @@
 
 ---
 
-- **简单的为状态下拉框，配置静态数据源**
+- **为「状态」下拉框，配置静态数据源**
 ![下拉选择框数据源](assets/img/DeviceInfo-PageDesign-addDevice-dropdown-DataSource.png "下拉选择框数据源")
 
 ---

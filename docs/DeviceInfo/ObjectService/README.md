@@ -5,7 +5,7 @@
 - **常用服务参考**
   - [常用脚本服务](/docs/DeviceInfo/ObjectService/commonJS)
   - [内置对象服务](https://supos-project.github.io/supOS-Object-Documents/#/docs/ObjectService/Service/)
-- **当前页面使用脚本**
+- **当前APP使用脚本**
   - 设备列表页面
     - [条件查询](/docs/DeviceInfo/ObjectService/buttonSearch)
     - [查询重置](/docs/DeviceInfo/ObjectService/buttonReset)

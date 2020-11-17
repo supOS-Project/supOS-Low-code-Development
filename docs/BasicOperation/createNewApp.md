@@ -31,7 +31,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 安装APP无法安装全局或引用的其他APP下的元数据（对象模板、对象实例、功能集合、标签、数据集合）;</br>
 请在安装前将工业APP调用的全局或其他APP下元数据同步到supOS系统。
 </font>

@@ -81,7 +81,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 只能同时选择「已创建」状态下的工单记录;</br>
 可批量选择设置。</br>
 </font>
@@ -105,7 +105,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 只能选择一条工单数据进行检修记录维护;</br>
 只能选择「正在处理中」状态下的工单记录；</br>
 </font>
@@ -130,7 +130,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 只能选择「正在处理中」状态下的工单记录进行关闭工单操作；</br>
 只能选择一条工单记录数据进行操作;</br>
 </font>

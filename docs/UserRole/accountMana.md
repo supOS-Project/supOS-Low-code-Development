@@ -6,7 +6,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」 人员与用户关联关系</br>
+<font color='redLight'>「注意」 人员与用户关联关系</br>
 用户必须关联人员，新增用户前，必须绑定关联绑定某个人员信息；</br>
 </font>
 
@@ -55,7 +55,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 管理员手动删除用户时，不能删除当前登录用户以及admin用户。</br>
 </font>
 
@@ -104,7 +104,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 管理员手动锁定用户时，不能锁定当前登录用户以及admin用户。</br>
 </font>
 

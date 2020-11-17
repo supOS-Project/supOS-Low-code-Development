@@ -57,7 +57,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」</br>
+<font color='redLight'>「注意」</br>
 岗位关联了人员不允许删除。请在删除岗位前，删除/取消其关联人员。
 </font>
 

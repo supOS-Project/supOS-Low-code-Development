@@ -55,7 +55,7 @@
 
 ---
 
-- **简单的为状态下拉框，配置静态数据源**
+- **为「状态」下拉框，配置静态数据源**
 ![下拉选择框数据源](assets/img/DeviceInfo-PageDesign-selectTools-dropdown-DataSource.png "下拉选择框数据源")
 
 ---
@@ -98,7 +98,7 @@
 
 ---
 
-<font color='redLight'>「**注意**」配置参数</br>
+<font color='redLight'>「注意」配置参数</br>
 「序号」的字段默认为 _index；</br>
 「操作」的字段默认为 'operation'；</br>
 </font>
